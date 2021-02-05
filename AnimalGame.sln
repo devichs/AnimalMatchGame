@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1340
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalGame", "AnimalGame\AnimalGame.csproj", "{A8331872-41AF-414A-87D9-71B0A7DA525C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8331872-41AF-414A-87D9-71B0A7DA525C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8331872-41AF-414A-87D9-71B0A7DA525C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8331872-41AF-414A-87D9-71B0A7DA525C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8331872-41AF-414A-87D9-71B0A7DA525C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C10778F2-62E9-4D96-B873-84AA853B1852}
+	EndGlobalSection
+EndGlobal
